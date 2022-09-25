@@ -22,6 +22,6 @@ server_script "server/**/*"
 dependency {
   "qb-core",
   "qb-menu",
-  "qb-target",
+  "qb-input",
   "PolyZone"
 }
